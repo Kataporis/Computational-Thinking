@@ -1,5 +1,4 @@
 # Project: Exam 2 #7
-# Name: Adrian Sandoval-Gonzalez
 # Professor: Ralph Hooper
 # Class: COSC-3302 Computational Thinking
 # Date: 12/7/2023
