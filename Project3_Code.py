@@ -1,5 +1,4 @@
 # Project: Project 3 -- Numerical Analysis
-# Name: Adrian Sandoval-Gonzalez
 # Professor: Ralph Hooper
 # Class: COSC-3302 Computational Thinking
 # Date: 11/12/2023
